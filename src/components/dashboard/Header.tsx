@@ -13,7 +13,7 @@ export function Header() {
         <div>
           <h1 className="text-xl font-semibold tracking-tight">
             <span className="text-primary">Boticário</span>{' '}
-            <span className="text-foreground/80">Januária</span>
+            <span className="text-foreground/80">São Francisco</span>
           </h1>
           <p className="text-xs text-muted-foreground">Dashboard de Métricas Meta Ads</p>
         </div>
